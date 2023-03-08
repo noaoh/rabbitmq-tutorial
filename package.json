@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "name": "rabbitmq-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "uuid": "^9.0.0"
+  }
+}
